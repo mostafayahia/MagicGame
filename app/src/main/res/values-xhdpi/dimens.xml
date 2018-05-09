@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="text_big_size">31sp</dimen>
+    <dimen name="card_width">330dp</dimen>
+</resources>
+    <!-- 
+    <dimen name="card_width">330dp</dimen>
+    <dimen name="card_dimen">600dp</dimen>
+    <dimen name="text_big_size">50sp</dimen>
+     -->
